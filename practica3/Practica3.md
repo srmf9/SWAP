@@ -1,3 +1,6 @@
+﻿# Práctica 3. Balanceo de carga #
+Tenemos que instalar una tercera máquina virtual que actuara como balanceador (no debe tener apache).
+
 ## 1. Configurar una máquina e instalarle el nginx como balanceador de carga ##
 
 Lo primero que realizo  para instalar el nginx es cargar el paquete del repositorio. 
